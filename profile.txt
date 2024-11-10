@@ -1,0 +1,5 @@
+Name: Aman Musthafa
+Student ID: 12104805
+Favorite Programming Language: Python
+GitHub Username: amn30
+Current Semester: 7
